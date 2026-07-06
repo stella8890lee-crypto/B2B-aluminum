@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Case Studies</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+
+<body>
+
+<header class="nav">
+  <div class="logo">Aluminum Solutions</div>
+</header>
+
+<section class="section">
+  <h1>Case Studies</h1>
+
+  <div class="card">
+    <h3>Heat Sink Project</h3>
+  </div>
+
+</section>
+
+</body>
+</html>
